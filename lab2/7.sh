@@ -1,6 +1,6 @@
 #!/bin/bash
 
-while [[ "SECONDS" -le "10" ]]; do
+while [[ "SECONDS" -le "60" ]]; do
     for pid in $(ps aux | awk '{print $2}'); do
     if [[ "pid" -ne "$$" ]]; then
         if [[ -z ${startingBytes[$pid]} ]]; then
