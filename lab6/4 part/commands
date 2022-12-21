@@ -1,0 +1,2 @@
+driverquery /FO TABLE /NH > drivers
+sort /r drivers > driversSorted

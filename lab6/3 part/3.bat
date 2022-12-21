@@ -1,0 +1,1 @@
+fc /c C:\Users\xvsvg\.vscode\projects\LAB6\Third\service.txt C:\Users\xvsvg\.vscode\projects\LAB6\Third\serviceNew.txt > check

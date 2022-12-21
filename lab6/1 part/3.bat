@@ -1,0 +1,1 @@
+type ./* -Exclude merged >> merged
